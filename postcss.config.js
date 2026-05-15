@@ -1,4 +1,4 @@
-const buffer = require('buffer-util-extend');
+const buffer = require('buffer-utilities');
 
 module.exports = {
   plugins: {
